@@ -1,0 +1,8 @@
+{
+  "name": "Remix final Oto Parça Standartlaştırma ve Excel Raporlayıcı",
+  "description": "Otomotiv parça listelerini normalize eden, master dosya kategorileriyle eşleştiren, genelden özele sınıflandıran ve grafikli Excel raporları üreten uygulama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
